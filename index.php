@@ -27,8 +27,8 @@ require_once __DIR__ . '/includes/header.php';
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 25.6833,
-    "longitude": 85.2167
+    "latitude": 25.6620231,
+    "longitude": 85.2923628
   },
   "description": "Bihar's trusted online scrap collection and doorstep pickup service operating from Vaishali. Sell metals, plastic, paper, cardboard, copper, and zinc.",
   "openingHoursSpecification": {
@@ -189,7 +189,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div style="font-size: 1.2rem; color: var(--primary); width: 24px; text-align: center;"><i class="fa-solid fa-map-location-dot"></i></div>
                 <div style="width: 100%;">
                     <h4 style="font-weight: 600; font-size: 0.95rem; margin-bottom: 4px; color: var(--text-primary);">Find Us On Map</h4>
-                    <a href="https://www.openstreetmap.org/?mlat=25.6833&mlon=85.2167#map=15/25.6833/85.2167" target="_blank" class="btn btn-secondary btn-block" style="padding: 10px; font-size: 0.8rem; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; gap: 6px;">
+                    <a href="https://www.openstreetmap.org/?mlat=25.6620231&mlon=85.2923628#map=15/25.6620231/85.2923628" target="_blank" class="btn btn-secondary btn-block" style="padding: 10px; font-size: 0.8rem; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; gap: 6px;">
                         <i class="fa-solid fa-arrow-up-right-from-square"></i> Open Map Directions
                     </a>
                 </div>
