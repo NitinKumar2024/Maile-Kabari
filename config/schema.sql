@@ -1,28 +1,4 @@
--- Disable foreign key checks temporarily to drop tables in any order
-SET FOREIGN_KEY_CHECKS = 0;
 
--- Create Database if not exists
-CREATE DATABASE IF NOT EXISTS `rohit_kabari` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `rohit_kabari`;
-
--- Drop existing tables and views if they exist to prevent conflicts
-DROP VIEW IF EXISTS `v_order_summary`;
-DROP TABLE IF EXISTS `notifications`;
-DROP TABLE IF EXISTS `order_items`;
-DROP TABLE IF EXISTS `orders`;
-DROP TABLE IF EXISTS `scrap_categories`;
-DROP TABLE IF EXISTS `user_tokens`;
-DROP TABLE IF EXISTS `user_remember_tokens`;
-DROP TABLE IF EXISTS `user_profiles`;
-DROP TABLE IF EXISTS `scrap_rates`;
-DROP TABLE IF EXISTS `quantity_units`;
-DROP TABLE IF EXISTS `order_status_history`;
-DROP TABLE IF EXISTS `order_images`;
-DROP TABLE IF EXISTS `order_field_notes`;
-DROP TABLE IF EXISTS `order_daily_sequence`;
-DROP TABLE IF EXISTS `login_attempts`;
-DROP TABLE IF EXISTS `app_settings`;
-DROP TABLE IF EXISTS `users`;
 
 -- 1. Users Table
 CREATE TABLE `users` (
