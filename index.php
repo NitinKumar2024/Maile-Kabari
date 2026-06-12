@@ -22,7 +22,7 @@ require_once __DIR__ . '/includes/header.php';
     "streetAddress": "Maile, Bhairopur",
     "addressLocality": "Vaishali",
     "addressRegion": "BR",
-    "postalCode": "844101",
+    "postalCode": "8441012",
     "addressCountry": "IN"
   },
   "geo": {
@@ -165,7 +165,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div>
                     <h4 style="font-weight: 600; font-size: 0.95rem; margin-bottom: 2px; color: var(--text-primary);">Rohit Kabari Shop</h4>
                     <p style="color: var(--text-secondary); font-size: 0.85rem; line-height: 1.4;">
-                        Maile, Bhairopur, Vaishali,<br>Bihar - 844101
+                        Maile, Bhairopur, Vaishali,<br>Bihar - 844102
                     </p>
                 </div>
             </div>
@@ -176,10 +176,10 @@ require_once __DIR__ . '/includes/header.php';
                     <h4 style="font-weight: 600; font-size: 0.95rem; margin-bottom: 2px; color: var(--text-primary);">Call Us Directly</h4>
                     <p style="color: var(--text-secondary); font-size: 0.85rem; display: flex; flex-wrap: wrap; gap: 10px; margin-top: 4px;">
                         <a href="tel:+919999999999" class="btn btn-secondary" style="padding: 6px 12px; font-size: 0.8rem; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
-                            <i class="fa-solid fa-phone"></i> +91 99999 99999
+                            <i class="fa-solid fa-phone"></i> +91 9835706149
                         </a>
                         <a href="tel:+919876543210" class="btn btn-secondary" style="padding: 6px 12px; font-size: 0.8rem; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
-                            <i class="fa-solid fa-phone"></i> +91 98765 43210
+                            <i class="fa-solid fa-phone"></i> +91 9973183185
                         </a>
                     </p>
                 </div>
