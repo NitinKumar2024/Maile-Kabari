@@ -1,0 +1,18 @@
+# Robots.txt file for mailekabari.in
+User-agent: *
+
+# Allow indexing of public landing and auth pages
+Allow: /$
+Allow: /index.php
+Allow: /login.php
+
+# Block indexing of secure customer, staff and admin dashboard environments
+Disallow: /admin/
+Disallow: /staff/
+Disallow: /customer/
+Disallow: /api/
+Disallow: /config/
+Disallow: /includes/
+
+# Link to sitemap
+Sitemap: https://mailekabari.in/sitemap.xml

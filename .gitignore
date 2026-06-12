@@ -1,0 +1,6 @@
+# Ignore local production credentials
+.env
+
+# XAMPP/OS specific files
+.DS_Store
+Thumbs.db
